@@ -1,0 +1,13 @@
+{
+  "name": "ci-cd-sample",
+  "version": "1.0.0",
+  "description": "A sample app to learn CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
